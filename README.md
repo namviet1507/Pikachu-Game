@@ -8,7 +8,7 @@ pairs are found. Figure 1 shows some snapshots from the Pikachu Puzzle Game.
 In this project, we will develop a simplified version of this Matching Game by remaking the game with characters
 (instead of figures).
 ![pikachu-game](https://cdn.shortpixel.ai/spai/w_995+q_lossy+ret_img+to_webp/https://1ktut.com/wp-content/uploads/2019/05/tai-Game-Pikachu-Co-Dien-ve-may-tinh.png)
-### II. Detailed Description
+### II. Project Description
 #### II.1 Standard Mode
 This mode contains the essential steps to make the game possible.
 1. Game starting: Initialize a board with the given size while satisfying the following conditions
