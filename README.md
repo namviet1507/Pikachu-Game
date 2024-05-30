@@ -7,7 +7,7 @@ in some particular pattern. A legal match will make the two cells disappear. The
 pairs are found. Figure 1 shows some snapshots from the Pikachu Puzzle Game.
 In this project, we will develop a simplified version of this Matching Game by remaking the game with characters
 (instead of figures).
-![pikachu-game](https://cdn.shortpixel.ai/spai/w_995+q_lossy+ret_img+to_webp/https://1ktut.com/wp-content/uploads/2019/05/tai-Game-Pikachu-Co-Dien-ve-may-tinh.png)
+![pikachu-game](https://github.com/namviet1507/Pikachu-Game/assets/92081226/c4a53dbe-97b7-41e6-8e6b-588288e41b0a)
 ### II. Project Description
 #### II.1 Standard Mode
 This mode contains the essential steps to make the game possible.
